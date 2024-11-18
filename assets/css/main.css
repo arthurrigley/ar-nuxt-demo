@@ -30,3 +30,6 @@ html {
   @apply min-h-full;
 }
 
+hr {
+  @apply my-4;
+}

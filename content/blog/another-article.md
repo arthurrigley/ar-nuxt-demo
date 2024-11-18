@@ -24,7 +24,12 @@ Jamie specializes in crafting detailed tutorials and creating helpful guides for
 
 ---
 
-![Team Photo](https://via.placeholder.com/400x300 "Our Team")
+::pictures
+---
+image1: '/images/demo/roxie-01.jpeg'
+aspectRatio: '4:3'
+---
+::
 
 ## Our Values
 

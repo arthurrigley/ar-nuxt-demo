@@ -14,7 +14,6 @@ export default defineNuxtConfig({
   },
   devtools: { enabled: true },
   modules: ['@nuxt/content', '@nuxtjs/tailwindcss', 'nuxt-icon'],
-  css: ['~/assets/css/main.css'],
   routeRules: {
     '/': { prerender: true },
   },

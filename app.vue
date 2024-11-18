@@ -7,6 +7,8 @@
 </template>
 
 <style>
+@import url('/assets/css/main.css');
+
 .page-enter-active,
 .page-leave-active {
   transition: all 0.1s;

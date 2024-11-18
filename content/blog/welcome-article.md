@@ -16,7 +16,14 @@ Welcome to the **best place** to find resources, tutorials, and guides for web d
 - **Resources**: Free tools and templates to accelerate your projects.
 - **Community**: Join our vibrant community of developers.
 
-![Placeholder Image](https://via.placeholder.com/800x400 "Sample Banner")
+---
+![Placeholder Image](/images/demo/landscape-03.jpg "Sample Banner")
+
+---
+
+Use three hyphens to insert an `<hr>` tag
+
+---
 
 ### Get Started
 

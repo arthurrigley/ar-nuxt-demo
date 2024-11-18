@@ -38,6 +38,8 @@ aspectRatio: 'square'
 ---
 ::
 
+You can pass in custom tailwind classes too, like above i've added a negative left/right margin to allow it to bleed out of the container
+
 #### Custom letterbox image:
 
 ::pictures
@@ -53,7 +55,6 @@ aspectRatio: 'letterbox'
 ---
 image1: '/images/demo/roxie-04.JPG'
 image2: '/images/demo/roxie-05.JPG'
-classes: mx-8
 aspectRatio: '4:3'
 ---
 ::
